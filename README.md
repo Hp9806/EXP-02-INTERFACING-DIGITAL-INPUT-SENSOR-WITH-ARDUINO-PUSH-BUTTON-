@@ -103,3 +103,7 @@ Output of the simulation :
 
 ![My image](1.png)
 
+RESULT:
+
+  Thus the interfaceing digital input sensor with ardunio push button is completed using thinkercad software sucessfully.
+
